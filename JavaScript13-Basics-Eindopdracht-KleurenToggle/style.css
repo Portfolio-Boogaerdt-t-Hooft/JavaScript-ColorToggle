@@ -1,0 +1,34 @@
+li{
+    list-style-type: none;
+    padding:20px;
+    width:200px;
+    margin:5px;
+    border: solid black 1px;
+}
+.menu{
+    visibility:hidden; 
+    padding:0;
+}
+.burger{
+    cursor:pointer;
+}
+.visible{
+    visibility:visible;
+}
+
+
+.red{
+    background:red;
+}
+.blue{
+    background: blue;
+}
+.green{
+    background:green;
+}
+.yellow{
+    background:yellow;
+}
+.orange{
+    background:orange;
+}
